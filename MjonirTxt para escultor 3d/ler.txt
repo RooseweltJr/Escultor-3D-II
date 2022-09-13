@@ -1,0 +1,11 @@
+dim 100 100 100
+putbox 4 31 4 21 5 17 0.502 0.502 0.502 1
+putbox 15 20 10 15 17 40 0.5882 0.2941 0.0 1
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
+cutbox 15 20 
